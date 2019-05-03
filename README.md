@@ -34,6 +34,7 @@
 20. pip install PyQtDataVisualization
 21. pip install PyQtChart
 22. conda install pyqtgraph
+23. pip install opencv-python
 
 ## Source Control
 [SourceTree](https://www.sourcetreeapp.com/)
