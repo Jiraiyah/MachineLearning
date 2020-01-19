@@ -12,17 +12,17 @@
 4. conda create --name tensorflow python=3.6
 
 ## In The __tensorflow__ Environment
-conda install jupyter            # install jupyter notebook
+conda install jupyter
 
 pip install sklearn
 
 conda install scipy
 
-conda install pandas             # install pandas to use data frames
+conda install pandas
 
-conda install pandas-datareader  # install pandas reader to read information from web providers
+conda install pandas-datareader
 
-conda install matplotlib         # install matplot library for drawing charts
+conda install matplotlib
 
 conda install pillow
 
@@ -34,25 +34,27 @@ conda install pyyaml
 
 conda install psutil
 
-conda install tensorflow-gpu      # install tensor flow for neural network training
+conda install tensorflow-gpu
 
-conda install keras               # install keras to be used with tensor flow
+# -- conda install keras --
 
 conda install scikit-learn
 
 pip install imblearn
 
-pip install ta                    # install technical analysis library for finance
+pip install ta
 
 pip install --upgrade tables
 
 pip install opencv-python
 
-pip install fxcmpy                 # install FXCM data stream reader for forex data
+pip install fxcmpy
 
-conda install ipykernel            # install Python kernel (ipykernel) into the conda environment
+pip install python-socketio
 
-python -m ipykernel install        # install python kernel into nteract's available kernel list
+conda install ipykernel
+
+python -m ipykernel install
 
 
 pip install PyQt5-tools
