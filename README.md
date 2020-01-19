@@ -12,31 +12,32 @@
 4. conda create --name tensorflow python=3.6
 
 ## In The __tensorflow__ Environment
-1. conda install jupyter            # install jupyter notebook
-2. conda install scipy
-3. pip install sklearn
-4. conda install pandas             # install pandas to use data frames
-5. conda install pandas-datareader  # install pandas reader to read information from web providers
-6. conda install matplotlib         # install matplot library for drawing charts
-7. conda install pillow
-8. conda install requests
-9. conda install h5py
-10. conda install pyyaml
-11. conda install psutil
-12. conda install tensorflow-gpu      # install tensor flow for neural network training
-13. conda install keras               # install keras to be used with tensor flow
-14. conda install scikit-learn
-15. pip install imblearn
-16. pip install ta                    # install technical analysis library for finance
-17. pip install --upgrade tables
-18. pip install PyQt5-tools
-19. pip install PyQtDataVisualization
-20. pip install PyQtChart
-21. conda install pyqtgraph
-22. pip install opencv-python
-23. pip install fxcmpy                 # install FXCM data stream reader for forex data
-24. conda install ipykernel            # install Python kernel (ipykernel) into the conda environment
-25. python -m ipykernel install        # install python kernel into nteract's available kernel list
+conda install jupyter            # install jupyter notebook
+pip install sklearn
+conda install scipy
+conda install pandas             # install pandas to use data frames
+conda install pandas-datareader  # install pandas reader to read information from web providers
+conda install matplotlib         # install matplot library for drawing charts
+conda install pillow
+conda install requests
+conda install h5py
+conda install pyyaml
+conda install psutil
+conda install tensorflow-gpu      # install tensor flow for neural network training
+conda install keras               # install keras to be used with tensor flow
+conda install scikit-learn
+pip install imblearn
+pip install ta                    # install technical analysis library for finance
+pip install --upgrade tables
+pip install opencv-python
+pip install fxcmpy                 # install FXCM data stream reader for forex data
+conda install ipykernel            # install Python kernel (ipykernel) into the conda environment
+python -m ipykernel install        # install python kernel into nteract's available kernel list
+
+pip install PyQt5-tools
+pip install PyQtDataVisualization
+pip install PyQtChart
+conda install pyqtgraph
 
 ## Source Control
 [SourceTree](https://www.sourcetreeapp.com/)
