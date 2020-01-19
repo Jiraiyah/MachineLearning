@@ -35,6 +35,7 @@
 21. pip install PyQtChart
 22. conda install pyqtgraph
 23. pip install opencv-python
+24. pip install fxcmpy
 
 ## Source Control
 [SourceTree](https://www.sourcetreeapp.com/)
